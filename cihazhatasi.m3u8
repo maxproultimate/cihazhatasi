@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.800000,
-cihazhatasi0.ts
+https://github.com/maxproultimate/cihazhatasi/raw/refs/heads/main/cihazhatasi0.ts
 #EXTINF:9.200000,
-cihazhatasi1.ts
+https://github.com/maxproultimate/cihazhatasi/raw/refs/heads/main/cihazhatasi1.ts
 #EXT-X-ENDLIST
